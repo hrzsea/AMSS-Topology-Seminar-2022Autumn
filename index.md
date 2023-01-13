@@ -1,234 +1,184 @@
-# This page records the AMSS Topology Seminar in Autumn Semester 2021
+# This page records the AMSS Topology Seminar in Autumn Semester 2022
 
 （return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
 
+### <font color=Peru size=3> 燕汝佳（AMSS） </font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 28, 2022</font>
+
+Place: 747-737-156
+
+Title: The Stable Picard Group of A(n)
 
 
+Abstract: In 1976, Adams calculated the Picard group of A(1) in “Uniqueness of BSO”, and it was not until 2017 that the conclusion of A(2) appeared. In the case of n greater than 2, it was initially impossible to determine whether its Picard group is finitely generated.  In this talk, the Picard groups for all A(n) will be given. The method relies on reductions from a Hopf algebra to its proper Hopf subalgebras.
 
-### <font color=Peru size=3> Jie Wu (BIMSA)</font>
+-------------------------------------------------------------------------------------------
 
-### <font color=LightCoral size=3>Time: 16：00-17：00, Jan. 05, 2022 </font>
+### <font color=Peru size=3> 罗月桐（北京大学） </font>
 
-Place: N802
+### <font color=LightCoral size=3>Time: 14：30-16：30, Dec. 21, 2022</font>
 
-Title: Topological Approaches to Weighted Data
+Place: 898 465 270
 
-Abstract: Topology and many other areas of pure mathematics have fruitful applications in data science nowadays. Topological data analysis has become a new-born research area. In this talk, we will discuss topological approaches to weighted data. The talk will consist of five sections. In section 1, we will give brief discussions on the question why Artificial Intelligence needs mathematics, as an introduction. Then we will mainly discuss mathematics and applications of weighted topological data analysis in sections 2 and 3. In Section 4, we will give short discussions on relevant topological approaches such as path homology and hypergraph homology. Finally, in section 5, we will revisit the question why Artificial Intelligence needs mathematics by displaying statistical information from google scholar on the research articles using topological data analysis.
+Title: Borel conjecture for tori
+
+
+Abstract: The Borel conjecture considers the obstruction from homotopy equivalence to homeomorphism for aspherical manifolds. The torus is the first computed case of Borel conjecture with the idea of splitting used in the computation. In this talk I will review the basic results of surgery theory and prove the Borel conjecture for torus following Shanneson and Hsiang’s calculation. Moreover, the further Farrell’s splitting for structure set gives us further tools in the proof of more complicated case of Borel conjecture.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 李友林（上海交通大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 14, 2022</font>
+
+Place: 306-836-756
+
+Title: Symplectic fillings of lens spaces and Seifert fibered spaces  
+
+
+Abstract: In this talk, we apply Menke's JSJ decomposition for symplectic fillings to several families of contact 3-manifolds. Among other results, we complete the classification up to orientation-preserving diffeomorphism of strong symplectic fillings of lens spaces. For large families of contact structures on Seifert fibered spaces over S^2, we reduce the problem of classifying exact symplectic fillings to the same problem for universally tight or canonical contact structures. We show that exact symplectic fillings of contact manifolds obtained by surgery on certain Legendrian negative cables are the result of attaching a symplectic 2-handle to an exact symplectic filling of a lens space. This is joint work with Austin Christian.
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 李鹏程（南方科技大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Dec. 07, 2022</font>
+
+Place: 腾讯会议：6965463074
+
+Title: Suspension Homotopy of 4-manifolds And the Second 2-local Cohomotopy Sets
+
+
+Abstract: In this talk we study the homotopy type of the (double) suspension of an orientable, closed, connected 4-manifold M, whose integral homology can have 2-torsion. Moreover, the decomposition results are applied to give a partial characterization of the second 2-local cohomotopy set of 4-manifolds. 
+
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 林剑锋（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 30, 2022</font>
+
+Place: 腾讯会议：468-144-607
+
+Title: Homological instability for the moduli space of smooth 4-manifolds 
+
+
+Abstract: The moduli space of a smooth manifold X is defined to be the classifying space of its diffeomorphism group. Understanding the cohomology group of this space is important because elements in this group one-to-one correspond to characteristic classes for smooth bundles with fiber X. A celebrated result of Harer states that homology groups of the moduli spaces of Riemann surfaces stabilize if one fixes a degree and increases the genus. Galatius and Randal-Williams established analogous homological stability for moduli spaces of manifolds of even dimension at least 6. In this talk, we will show that homological stability fails for the moduli space of any simply-connected closed smooth 4-manifold in any degree of homology. The central tool is a characteristic class constructed using Seiberg-Witten equations, which detects the subtle difference between the topological category and the smooth category of 4-manifolds. This is a joint work with Hokuto Konno.
+
+
+-------------------------------------------------------------------------------------------
+### <font color=Peru size=3> 柳翔（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 23, 2022</font>
+
+Place: 701 801 036
+
+Title: Linked periodic orbits of disc homeomorphisms
+
+
+Abstract: In 1990, Gambaudo introduced the notion of linking of two invariant sets of a surface self-map. Most of the known results of linked periodic orbits are about an orbit linked with a fixed point. In this talk, based on the forcing relation of braids, we present a method for finding periodic orbits which are linked with a given periodic orbit of an orientation-preserving homeomorphism of the disc. New examples are provided.
 
 
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
+### <font color=Peru size=3> 高鸿灏（清华大学）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 29, 2021 </font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Nov. 09, 2022</font>
 
-Place: N802
+Place: N533
 
-Title: Orders of the canonical vector bundles over configuration spaces of finite graphs
-
-Abstract: We prove that the order of the canonical vector bundle over the configuration space is $2$ for a general planar graph, and is $4$ for a nonplanar graph.
-
-This is a joint work with Frederick R. Cohen.
-
--------------------------------------------------------------------------------------------
+Title: Legendrian knots and cluster algebras via augmentations
 
 
-### <font color=Peru size=3> 黄瑞芝 (AMSS)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 22, 2021 </font>
-
-Place: N802
-
-Title: An extended rational dichotomy for certain open books
-
-Abstract: We study the rational homotopy groups of open books in terms of those of their pages and bindings. Under a so-called homotopy order condition on monodromy we prove a rational dichotomy theorem for open books, as an extension of the classical dichotomy in rational homotopy theory. As a direct application, we show that the monodromies of Milnor's open book decompositions of odd spheres are of infinite order in general. We also calculate the integral homotopy groups of open books when their monodromies are homotopic to the identity map.
-
-This is a joint work with Stephen Theriault.
-
+Abstract: Legendrian knots and their exact Lagrangian fillings are central objects to study in low dimensional contact and symplectic topology. In recent developments, cluster algebras have proven to be powerful tools to classify Lagrangian fillings. For a positive braid link, we introduce a cluster K2 structure on its augmentation variety.  Using the perspective of Ekholm-Honda-Kalman theory, we prove that admissible exact Lagrangian fillings, a subset of decomposable ones, induce cluster seeds in the cluster K2 augmentation variety. We provide an algorithm to compute these cluster seeds. We also use the cluster Donaldson-Thomas transformation to produce infinitely many Lagrangian fillings. This is a joint work with L. Shen and D. Weng.
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 王中子（北京大学）</font>
 
-### <font color=Peru size=3> 桂弢 (AMSS)</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Nov. 02, 2022</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 15, 2021 </font>
+Place: N533
 
-Place: N802
-
-Title: Log-concave conjectures on cohomology of configuration spaces and flag manifolds
-
-Abstract: A major advance in combinatorics in recent years is the Hodge theory of combinatorial geometry (matroids) established by Adiprasito-Huh-Katz, which in turn solved a series of long-standing open log-concave conjectures. Proudfoot and his collaborators make the log-concave conjecture to the equivariant case, propose some log-concave conjectures of cohomology representations. We discuss the case of configuration spaces and our similar conjectures for flag manifolds and Springer representations and (very little) progress at present.
+Title: Degree one maps between 4-manifolds with cyclic fundament groups
 
 
+Abstract: I will present some results on the existence and finiteness of degree one maps between 4-manifolds with cyclic fundamental groups, as well as the relation between 1-domination and Euler characteristics. This is based on a joint work with Yang Su and Shicheng Wang.
 
 -------------------------------------------------------------------------------------------
 
+### <font color=Peru size=3> 刘文奡（AMSS）</font>
 
-### <font color=Peru size=3> 林剑锋 (清华大学)</font>
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 26, 2022</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 8, 2021 </font>
+Place: N533
 
-Place: N802
+Title: Rigidity and vanishing of elliptic genera of complex manifolds
 
-Title: Nonexistence of symplectic structures on certain family of 4-manifolds
-
-Abstract: Let Symp(X) be the group of symplectomorphisms on a symplectic 4-manifold X. It is a classical problem in symplectic topology to study the homotopy type of Symp(X) and to compare it with the group of all diffeomorphisms on X. This problem is closely related  to the existence of symplectic structures on smooth families of 4-manifolds.  In this talk, we will discuss the following new results: 
-
-(1) For any X that contains a smoothly embedded 2-sphere with self-intersection -1 or -2, there exists a loop of self-diffeomorphisms on X that is not homotopic to a loop of symplectomorphisms. 
-
-(2) Consider a family of 4-manifolds obtained by resolving an ADE singularity using a hyperkahler family of complex structures, this family never support a family symplectic structure in a constant cohomology class. 
-
-(3) For any nonminimal symplectic 4-manifold whose positive second-betti number does  not equal to 3, the space of symplectic form is not simply connected. 
-
-The key ingredient in the proofs is a new gluing formula for the family Seiberg-Witten invariant.
-
-
-
--------------------------------------------------------------------------------------------
-
-
-
-### <font color=Peru size=3> 汪世达 </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Dec 1, 2021 </font>
-
-Place: N802
-
-Title: Linear Independence in the Concordance Group and Knot Floer Invariants
-
-Abstract: The first half of this talk is expository, introducing the knot concordance group and Heegaard knot Floer theory. We will survey a few invariants arising from the knot Floer complex. Then some families of knots will be given as examples to show how the invariants are used to prove linear independence. Finally, we will discuss concordance problems about algebraic knots. 
-
-
-
--------------------------------------------------------------------------------------------
-
-### <font color=Peru size=3> 金汇泽（AMSS） </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 24, 2021 </font>
-
-Place: N802
-
-Title: Realising sets of integers as mapping degree sets
-
-Abstract: reading seminar about a paper by Neofytidis-Wang-Wang with the same title.
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> Yang Su (AMSS) </font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Nov 17, 2021 </font>
-
-Place: N802
-
-Title: Self covering and fibering manifolds over circle
-
-Abstract:
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 苏桃（清华大学)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-15：30, Nov 10, 2021 </font>
-
-Place: 晨兴110
-
-Title: Augmentations from Legendrian knots
-
-Abstract: In this talk, I will present a cut-and-glue approach in the study of augmentations associated to Legendrian knots. Given a Legendrian knot, this induces from relative contact homology a constructible co-sheaf of DGAs over the real line, whose global co-section recovers the Chekanov-Eliashberg DGA. It follows that, the augmentations of the Chekanov-Eliashberg DGA form the augmentation variety with a sheaf property. As an application, this gives naturally a cell decomposition for the augmentation variety. Consequently, we obtain a new proof to the formula that the E-polynomial of the variety is computed by the ruling polynomial, a combinatorially defined Legendrian isotopy invariant. Time permitting, I will also mention a second application in my recent work concerning part of the geometric P=W conjecture in nonabelian Hodge theory.
-
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 黄瑞芝(AMSS)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct 27, 2021 </font>
-
-Place: N502
-
-Title: Algebraic topology of 24 dimensional string manifolds
-
-Abstract: String can be viewed as higher version of spin, while the latter plays a fundamental role in Atiyah-Singer index theory. People try to develop parallel theory for string, the full story of which is still mystery. Geometry and topology of string manifolds then attract increasing attentions and interests, while the ones of dimensional $24$ are quite special among string manifolds. 
-In this talk, we will discuss the algebraic-topological aspect of 24-dimensional string manifolds, following the work of Hirzebruch, Ochanine, Landweber-Stong, Mahowald-Hopkins, Chen-Han, and very recent work of mine joint with Fei Han. We will talk about string cobordism, various index-theoretic genera and some applications.
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 周正一（AMSS)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct 20, 2021</font>
-
-Place: N502
-
-Title: A symplectic field theory and its applications (II)
-
-Abstract: 
-
-
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 柳翔（AMSS)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Oct 13, 2021</font>
-
-Place: N502
-
-Title: Templates embedding and immersing in R3 （博士后开题报告）
 
 Abstract: 
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> 吴惟为（佐治亚大学)</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 29, 2021</font>
+### <font color=Peru size=3> 桂弢（AMSS）</font>
 
-Place: N502
+### <font color=LightCoral size=3>Time: 14：30-16：30, Oct. 19, 2022</font>
 
-Title: Lagrangian surgery formulae and projective twists.
+Place: N533
 
-Abstract: I will explain the construction of Lagrangian Dehn twists along a given Lagrangian sphere S in symplectic geometry, then relate them to a symplectic operation called the Lagrangian surgery; the latter constructs Lagrangian embeddings of connected sums.  The relation is two-fold: from a more geometric point of view, the Dehn twist of a given Lagrangian L can be regarded as a simultaneous surgery between L and the given Lagrangian sphere S; or, motivated by mirror symmetry, they are governed by a generalized surgery along clean intersections in a product symplectic manifold.  The first perspective is usually difficult to work with an generalize, we will explain how the second perspective leads to a new view of the Huybrechts-Thomas conjecture regarding projective twists in Floer theories.
+Title: Equivariant cohomology, localization formula and moment graph
 
--------------------------------------------------------------------------------------------
-
-
-### <font color=Peru size=3> 阮洋洋（AMSS)</font>
-
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 22, 2021</font>
-
-Place: N502
-
-Title: G等变稳定同伦范畴的Balmer谱的计算 （博士后开题报告）
 
 Abstract: 
 
 -------------------------------------------------------------------------------------------
 
-### <font color=Peru size=3> 周正一（AMSS)</font>
+### <font color=Peru size=3> 张俊（中科大）</font>
 
-### <font color=LightCoral size=3>Time: 14：30-16：30, Sep 15, 2021</font>
+### <font color=LightCoral size=3>Time: 14：30-15：30, Sep. 28, 2022</font>
 
-Place: N902
+Place: 腾讯会议 295965402
 
-Title: A symplectic field theory and its applications (I)
+Title: Triangulated persistence category in symplectic geometry
 
-Abstract: 
+
+Abstract: In this talk, we will introduce a new algebraic structure called triangulated persistence category (TPC). A TPC combines the persistence module structure (from topological data analysis) and the classical triangulated structure so that a meaningful measurement, via cone decomposition, can be defined on the set of objects. Moreover, a TPC structure allows us to define non-trivial pseudo-metrics on its Grothendieck group, which is the first time that people can study a Grothendieck group in terms of the metric geometry. Finally, we will illustrate several unexpected properties of a TPC via its supporting example in symplectic geometry, the derived Fukaya category. In particular, we can distinguish classes in the Grothendieck group of a derived Fukaya category from a quantitative perspective. This is based on joint work with Paul Biran and Octav Cornea.
+
+-------------------------------------------------------------------------------------------
+
+### <font color=Peru size=3> 桂弢（AMSS）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 21, 2022</font>
+
+Place: N802
+
+Title: Shadows of Hodge Theory (or: Never Underestimate Symmetry!)
+
+
+Abstract: This talk aims to advertise a pattern/phenomenon that has emerged in many different mathematical areas during the past decades but is not currently well-understood. I will begin with a broad overview of the Kahler packages (Poincare duality, Hard Lefschetz, and Hodge-Riemann relations) that appear in geometry, algebra, and combinatorics, from the classics of Lefschetz to the recent work of this year's Fields medalist June Huh, in a down-to-earth way. Then I will discuss two new Kahler packages we discovered that are equivariant and have no geometric origin. The equivariant log-concavity in representation theory hints at our discoveries. This talk will be non-technical and accessible to the general audience: nothing will be assumed other than elementary linear algebra. Partly based on joint work with Rui Xiong.
+
+-------------------------------------------------------------------------------------------
+
+
+### <font color=Peru size=3> 江怡（清华大学）</font>
+
+### <font color=LightCoral size=3>Time: 14：30-16：30, Sep. 14, 2022</font>
+
+Place: N802
+
+Title: Free circle actions on highly connected (2n+1)- manifolds
+
+
+Abstract: A natural problem in topology is to determine which manifolds admit certain group actions. The problem we concern in this talk is to determine which highly connected (2n+1)-manifolds admit free circle actions. I will introduce some previous work and our progress on this problem.
 
 
 -------------------------------------------------------------------------------------------
 
 
-### <font color=Peru size=3>陈亮（东北师范大学)</font>
 
-### <font color=LightCoral size=3>Time: 13：30-14：30, Sep 8, 2021</font>
-
-Place: 腾讯会议：110 766 998
-
-Title: Legendrian Dualities and Geometry of Submanifolds
-
-Abstract: Singularity and degeneracy destroy the structure of manifolds and give rise to essential difficulties in researching the deteriorative manifolds. Thus, it is crucial to develop new methods for investigating the singular or degenerate manifolds. By characterizing the inner connection between pseudo spheres in semi-Euclidean space, the Legendrian dualities are effective methods developed by L. Chen and Izumiya in 2009 for studying the submanifolds in non-flat space. Specially, the Legendrian duality is applicable for studying the singular or degenerate submanifolds. In this talk, we will introduce the basic notions of Legendrian dualities. As their applications, using the singularity theory of mappings, we investigate the topological and geometrical properties of the (singular or degenerate) submanifolds immersed in non-flat space from the viewpoint of duality.
